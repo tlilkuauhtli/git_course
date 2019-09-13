@@ -1,2 +1,2 @@
-A_message="I'm A, second commit, Iwas modified on ext_doc branch."
+A_message="I'm A, I was modified on ext_doc branch, second time."
 print A_message
