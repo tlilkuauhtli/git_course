@@ -1,2 +1,2 @@
-A_message="I'm A, ready for third commit."
+A_message="I'm A"
 print A_message
